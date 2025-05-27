@@ -1,40 +1,69 @@
-### 👋 Hola, soy Estiven De Moya
+<h1 align="center">👋 ¡Hola, soy Estiven De Moya!</h1>
 
-- 🧑‍🎓 Estudiante de Ingeniería en Sistemas
-- 💻 Apasionado por el desarrollo de software
-- 🚀 Explorando nuevas tecnologías
-
----
-
-### 🔧 Lenguajes y herramientas
-
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+<p align="center">
+  🎓 Estudiante de Ingeniería en Sistemas <br>
+  💻 Apasionado por el desarrollo de software <br>
+  🚀 Explorando nuevas tecnologías y construyendo proyectos útiles <br>
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Sobre mí
 
-![Estiven's GitHub stats](https://github-readme-stats.vercel.app/api?username=Estiven-29&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estiven-29&layout=compact&theme=tokyonight)
+- 📍 Desde Colombia 🇨🇴
+- 🎯 Me enfoco en desarrollo backend con C#, .NET y TypeScrip, pero también disfruto el frontend con React y Flutter.
+- 🧠 Siempre en busca de nuevos retos y oportunidades para aprender.
 
 ---
 
-### 📫 Contacto
+### 🛠️ Tecnologías que uso
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](www.linkedin.com/in/ing-sven29)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](dsmoyastiven@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com)
+<div align="center">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+</div>
+
+---
+
+### 📚 Actualmente aprendiendo
+
+- 🧩 Arquitectura de software
+- ☁️ Fundamentos de cloud con AWS
+- 🔐 Seguridad en desarrollo web
+
+---
+
+### 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Estiven-29&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_rank=false" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estiven-29&layout=compact&theme=tokyonight&hide_title=true" height="180px" />
+</div>
+
+---
+
+### 🌐 Conéctate conmigo
+
+<p align="center">
+  <a href="mailto:tuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Estiven-29&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <!--
-**Estiven-29/Estiven-29** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
-
-Aquí puedes agregar más información sobre tus proyectos, lo que estás aprendiendo o en qué estás colaborando actualmente.
+Este README se genera para mostrar quién soy, lo que hago y cómo puedes contactarme.
+Puedes editar este archivo directamente para mantenerlo actualizado.
 -->
