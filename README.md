@@ -34,6 +34,7 @@
 
 ### 📚 Actualmente aprendiendo
 
+- 🌥️ Azure
 - 🧩 Arquitectura de software
 - ☁️ Fundamentos de cloud con AWS
 - 🔐 Seguridad en desarrollo web
