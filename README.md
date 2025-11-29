@@ -44,8 +44,8 @@
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Estiven-29&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&hide_rank=false" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Estiven-29&layout=compact&theme=tokyonight&hide_title=true" height="180px" />
+  <img src="https://github-readme-stats-git-master-estivaly.vercel.app/api?username=Estiven-29&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-master-estivaly.vercel.app/api/top-langs/?username=Estiven-29&layout=compact&theme=tokyonight" />
 </div>
 
 ---
